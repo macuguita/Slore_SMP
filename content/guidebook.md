@@ -5,12 +5,12 @@ title: Guidebook
 
 - [[Modrinth launcher]] (easiest)
 
-![[images/modrinth.png|100]]
+![[modrinth.png|100]]
 
 - [[Prism launcher]] (easy)
   
-![[images/prism.png|100]]
+![[prism.png|100]]
 
 - [[Default Minecraft launcher]]
   
-![[images/minecraft.png|100]]
+![[minecraft.png|100]]
