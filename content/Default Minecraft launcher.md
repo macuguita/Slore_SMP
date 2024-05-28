@@ -22,9 +22,9 @@ Once that is completed, head over to ⁠the [modpack](https://discord.com/channe
 ![[Official_7.png]]
 Once you've completed all of those steps, the mods should be installed and you can boot up minecraft through the launcher. By clicking the **green** "**Play**" button, It takes around 1 minute to load, probably less if you have a good computer.
 Once it loaded you should be greeted by a screen that looks like this
-![[content/Images/Tutorial/Common/Common_1.png]]
+![[content/Images/Tutorial/images Common/Common_1.png]]
 Click on the "Multiplayer" button
-![[content/Images/Tutorial/Common/Common_2.png]]
+![[content/Images/Tutorial/images Common/Common_2.png]]
 You should see a screen that looks like this, click on the "Add Server" button
 ![[Official_8.png]]
 After that you should see a screen like this, fill out the spaces like I did with the server information.
@@ -32,6 +32,6 @@ The server's IP address is:
 ```slore-smp.minecraft.casa```
 ![[Official_9.png]]
 Once you did all of that click the "Done" button and make sure to select the server and click "Join Server"!
-![[content/Images/Tutorial/Common/Common_3.png]]
+![[content/Images/Tutorial/images Common/Common_3.png]]
 After this you should be in the server and are free to play! Make sure to follow the [[Rules]]!
 
