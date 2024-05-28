@@ -17,7 +17,7 @@ title: Rules
 
 - **Stealing** is a bannable offense. "Stealing" or borrowing is only allowed when given consent from the individual. The punishment varies from case to case.
 
-﻿- **Exploiting** or **cheating** is a bannable offense. This includes x-raying. The punishment varies from case to case.
+- **Exploiting** or **cheating** is a bannable offense. This includes x-raying. The punishment varies from case to case.
 ﻿
 - **Large farms** are bannable offenses. Use common sense, if the farm involves loading hundreds or thousands of entities at once, it is not allowed.
 
