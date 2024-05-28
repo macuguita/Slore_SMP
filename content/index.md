@@ -7,4 +7,6 @@ title: Welcome to Slore SMP
 # You can check the latest community updates in our [Discord](https://discord.com/invite/W5MZT2ntbJ)!
 
 # Want to join the server? check [[joining|here]]!
+# Want to know how to install the mods? check [[guidebook|here]]!
+# Server Rules [[Rules|here]].
 
