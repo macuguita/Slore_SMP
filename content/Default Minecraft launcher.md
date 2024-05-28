@@ -8,30 +8,30 @@ I'm guessing you already installed java, downloaded the official Minecraft launc
 
 First what you have to do is install the installed for the mod loader, we are using QuiltMC, so make sure to download the installer from https://quiltmc.org/en/install/, make sure to download the **Client** one.
 Once you downloaded and opened the file you should be greeted by a screen that looks like this, make sure to select the options I selected below
-![[content/Images/Official_1.png]]
+![[images/Official_1.png]]
 After Quilt finishes downloading make sure it is installed by opening your Minecraft launcher and looking through your instances, you should see that Quilt is installed like it shows on the picture below
-![[content/Images/Official_2.png]]
+![[images/Official_2.png]]
 After that head to the "Installations" tag at the top of your screen and click **edit** under your Quilt installation
-![[content/Images/Official_3.png]]
+![[images/Official_3.png]]
 You will then be prompted with this screen, please click more options
-![[content/Images/Official_4.png]]
+![[images/Official_4.png]]
 You mush change "**-Xmx2G**" to "**-Xmx4G**", You are simply changing the 2 to a 4. Once you've done that, click **save**
-![[content/Images/Official_5.png]]
-![[content/Images/Official_6.png]]
+![[images/Official_5.png]]
+![[images/Official_6.png]]
 Once that is completed, head over to ⁠the [modpack](https://discord.com/channels/1221495511354179664/1221499038180970567) Discord channel and download files from the **Google Drive link**!!!!!!. Then, proceed to open up the Quilt installation's mod folder. Drag the **unzipped**!!!!!!. mods into that folder.
-![[content/Images/Official_7.png]]
+![[images/Official_7.png]]
 Once you've completed all of those steps, the mods should be installed and you can boot up minecraft through the launcher. By clicking the **green** "**Play**" button, It takes around 1 minute to load, probably less if you have a good computer.
 Once it loaded you should be greeted by a screen that looks like this
-![[content/Images/Common_1.png]]
+![[images/Common_1.png]]
 Click on the "Multiplayer" button
-![[content/Images/Common_2.png]]
+![[images/Common_2.png]]
 You should see a screen that looks like this, click on the "Add Server" button
-![[content/Images/Official_8.png]]
+![[images/Official_8.png]]
 After that you should see a screen like this, fill out the spaces like I did with the server information.
 The server's IP address is:
 ```slore-smp.minecraft.casa```
-![[content/Images/Official_9.png]]
+![[images/Official_9.png]]
 Once you did all of that click the "Done" button and make sure to select the server and click "Join Server"!
-![[content/Images/Common_3.png]]
+![[images/Common_3.png]]
 After this you should be in the server and are free to play! Make sure to follow the [[Rules]]!
 
