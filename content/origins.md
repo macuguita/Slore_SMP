@@ -1,12 +1,12 @@
 ---
 title: List of Origins
 ---
-[[Enderian]]
-[[Merling]]
-[[Phantom]]
-[[Elytrian]]
-[[Blazeborn]]
-[[Avian]]
-[[Arachnid]]
-[[Shulk]]
-[[Feline]]
+- [[Enderian]]
+- [[Merling]]
+- [[Phantom]]
+- [[Elytrian]]
+- [[Blazeborn]]
+- [[Avian]]
+- [[Arachnid]]
+- [[Shulk]]
+- [[Feline]]
