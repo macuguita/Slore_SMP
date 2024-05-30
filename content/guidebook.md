@@ -11,6 +11,6 @@ title: Guidebook
   
 ![[prism.png|100]]
 
-- [[Default Minecraft launcher]]
+- [[Default Minecraft launcher]] (If you are using MacOS do NOT do this if you want to use in game voice chat)
   
 ![[minecraft.png|100]]
