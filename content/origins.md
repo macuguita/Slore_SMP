@@ -10,3 +10,4 @@ title: List of Origins
 - [[Arachnid]]
 - [[Shulk]]
 - [[Feline]]
+- [[Flying fish]]

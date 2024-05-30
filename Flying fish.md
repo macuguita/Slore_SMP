@@ -1,0 +1,15 @@
+---
+title: Flying fish
+---
+- Has a built-in Elytra (can be disabled with a keybind)
+- Unlimited underwater breathing
+- Increased sight underwater
+- Has aqua affinity
+- Swims faster
+- Ignores gravity underwater
+- Cannot breathe on land
+- You are 1.5 blocks tall
+- You have 5 hearts less
+- Can't use shields
+- You can dash through the water (Riptide effect)
+- You can give water breathing to other players around you

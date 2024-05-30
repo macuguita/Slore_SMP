@@ -1,7 +1,6 @@
 ---
 title: Merling
 ---
-
 - Unlimited underwater breathing
 - Increased sight underwater
 - Has aqua affinity
