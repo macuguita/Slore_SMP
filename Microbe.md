@@ -1,0 +1,15 @@
+---
+title: Microbe
+---
+- You jump very high, take and deal more knockback, you're immune to fall damage and bounce from landing.
+- You cannot loose more than 50% of your health at a time
+- You are immune to toxins and negative effects
+- You can inflict a disease to people by punching them or getting punched by them
+- You are a bacteria, you can't physically damage people
+- You have a mass bar, all of your stats, negative or not are affected by it (Size, health, jumo height, …)
+- While below 40% mass you can climb walls
+- You are less hungry when small, but hungrier when big
+- You can eject part of your mass as part of a slime ball
+- You can absorb slime balls to increase your mass
+- When you take damage you randomly loose mass
+- When you are big you'll loose mass instead of hunger

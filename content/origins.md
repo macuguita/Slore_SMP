@@ -11,3 +11,4 @@ title: List of Origins
 - [[Shulk]]
 - [[Feline]]
 - [[Flying fish]]
+- [[Microbe]]
