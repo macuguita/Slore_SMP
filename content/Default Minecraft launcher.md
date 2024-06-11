@@ -18,7 +18,7 @@ You will then be prompted with this screen, please click more options
 You mush change "**-Xmx2G**" to "**-Xmx4G**", You are simply changing the 2 to a 4. Once you've done that, click **save**
 ![[Official_5.png]]
 ![[Official_6.png]]
-Once that is completed, head over to ⁠the [modpack](https://discord.com/channels/1221495511354179664/1221499038180970567) Discord channel and download files from the **Google Drive link**!!!!!!. Then, proceed to open up the Quilt installation's mod folder. Drag the **unzipped**!!!!!!. mods into that folder.
+Once that is completed, head over to ⁠the [modpack](https://discord.com/channels/1221495511354179664/1221499038180970567) Discord channel and download files from the **Google Drive link**!!!!!!. Then, proceed to open up the Fabric installation's mod folder. Drag the **unzipped**!!!!!!. mods into that folder.
 ![[Official_7.png]]
 Once you've completed all of those steps, the mods should be installed and you can boot up minecraft through the launcher. By clicking the **green** "**Play**" button, It takes around 1 minute to load, probably less if you have a good computer.
 ![[Official_8.png]]
