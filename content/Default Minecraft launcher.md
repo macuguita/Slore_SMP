@@ -30,7 +30,7 @@ You should see a screen that looks like this, click on the "Add Server" button
 ![[Official_9.png]]
 After that you should see a screen like this, fill out the spaces like I did with the server information.
 The server's IP address is:
-```ackee.clubnode.com:22195```
+```cherry.clubnode.com:22195```
 ![[Official_10.png]]
 Once you did all of that click the "Done" button and make sure to select the server and click "Join Server"!
 ![[Common_3.png]]
